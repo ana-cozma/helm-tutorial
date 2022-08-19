@@ -30,5 +30,4 @@ Some checks:
 [Dockerizing the Sample App](3.%20Dockerizing%20the%20Sample%20App.md)
 
 ### 4. Creating the Helm charts
-[Creating the Helm charts](4.%20Creating%20the%20Helm%20charts.md)
-
+[Creating the Helm charts](4.%20Creating%20the%20Helm%20Charts.md)
